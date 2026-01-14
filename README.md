@@ -7,6 +7,7 @@
 
 - **Other Passions:**
   - Riding, breaking, maintaining, and fixing my Ducatis 🏍️
-  - History, technological advancements, societal resilience and geopolitics
+  - History, philosophy, technological advancements, societal resilience and geopolitics
 
 > *Always learning, always tinkering, always improving.*
+> *DISCIPLINAM·STOICI·SVSTINEO·VT·OTIO·EPICVREO·FRVAR*
