@@ -9,4 +9,4 @@
   - Riding, breaking, maintaining, and fixing my Ducatis 🏍️
   - History, philosophy, technological advancements, societal resilience and geopolitics
 
-> 🏛️**APERI·ARCAM·IGNIS·NOSTER·EST**🏛️
+> 🏛️🔥🏛️**AVETE·EOS·QVI·ARCAM·APERIVNT·IGNEMQVE·NOSTRVM·VINDICANT**🏛️🔥🏛️
