@@ -9,5 +9,4 @@
   - Riding, breaking, maintaining, and fixing my Ducatis 🏍️
   - History, philosophy, technological advancements, societal resilience and geopolitics
 
-> *Always learning, always tinkering, always improving.*
 > 🏛️**APERI·ARCAM·IGNIS·NOSTER·EST**🏛️
