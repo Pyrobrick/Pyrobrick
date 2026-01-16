@@ -10,4 +10,4 @@
   - History, philosophy, technological advancements, societal resilience and geopolitics
 
 > *Always learning, always tinkering, always improving.*
-> *DISCIPLINAM·STOICI·SVSTINEO·VT·OTIO·EPICVREO·FRVAR*
+> 🏛️**APERI·ARCAM·IGNIS·NOSTER·EST**🏛️
