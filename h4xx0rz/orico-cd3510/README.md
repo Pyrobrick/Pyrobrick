@@ -204,9 +204,7 @@ Need process/binary/DNS/packet evidence for stronger claims.
 
 ## Security
 
-Firmware 1.9.12 and earlier: **CVE-2025-69429 / JVNDB-2026-003443** (symlink handling).
-
-- [JVNDB-2026-003443](https://jvndb.jvn.jp/en/contents/2026/JVNDB-2026-003443.html)
+Firmware 1.9.12 and earlier: **[CVE-2025-69429](https://www.cve.org/CVERecord?id=CVE-2025-14220) / [JVNDB-2026-003443](https://jvndb.jvn.jp/en/contents/2026/JVNDB-2026-003443.html)** (symlink handling).
 
 ## Licensing
 
