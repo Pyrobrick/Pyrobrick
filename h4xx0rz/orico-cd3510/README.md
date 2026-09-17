@@ -190,12 +190,17 @@ port 9898
 
 Pavlo reports strong dependence on vendor Internet connectivity and many outbound connections.
 
-Not proven:
+Observed capability:
 
-- `transmission` is ORICO's main cloud daemon;
-- full disk contents are uploaded.
+- the vendor software can access/download the entire disk contents.
 
-Need process/binary/DNS/packet evidence.
+Not observed:
+
+- abnormally large outgoing traffic;
+- evidence that the entire disk contents were actually uploaded;
+- proof that `transmission` is ORICO's main cloud daemon.
+
+Need process/binary/DNS/packet evidence for stronger claims.
 
 ## Security
 
